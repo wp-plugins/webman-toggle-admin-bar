@@ -1,4 +1,4 @@
-=== WebMan Amplifier ===
+=== WebMan Toggle Admin Bar ===
 Contributors:      webmandesign
 Donate link:       http://www.webmandesign.eu/
 Author URI:        http://www.webmandesign.eu/
