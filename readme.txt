@@ -8,7 +8,7 @@ Tested up to:      4.1
 Stable tag:        trunk
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
-Tags:              webman, admin bar, toggle, disable, enable, hide, testing, development, theme
+Tags:              webman, admin bar, toggle, disable, enable, hide, testing, development, theme, toolbar
 
 Toggles the WordPress admin bar the right way. Theme developer's best friend!
 
