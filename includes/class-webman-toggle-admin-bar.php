@@ -136,7 +136,6 @@ if ( ! class_exists( 'WM_Toggle_Admin_Bar' ) ) {
 
 				//Helper variables
 					$plugin_data = ( function_exists( 'get_plugin_data' ) ) ? ( get_plugin_data( WMTAB_PLUGIN_FILE, false ) ) : ( array( 'Version' => $GLOBALS['wp_version'] ) );
-					$plugin_data = get_plugin_data( WMTAB_PLUGIN_FILE, false );
 
 				//Enqueue assets
 					wp_enqueue_style(
