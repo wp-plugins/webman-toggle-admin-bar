@@ -39,6 +39,8 @@ Please, find the instructions on how to localize the plugin in `webman-toggle-ad
 2. Activate the plugin through the *"Plugins"* menu in WordPress.
 3. Once you you click an admin bar toggle button in the bottom left corner of your website's front end, the admin bar will toggle.
 
+== Frequently Asked Questions ==
+
 = How to translate (localize) the plugin? =
 
 Please, find the instructions on how to localize the plugin in `webman-amplifier/languages/readme.md` file.
@@ -48,6 +50,12 @@ Please, find the instructions on how to localize the plugin in `webman-amplifier
 Please see the [`changelog.md` file](https://github.com/webmandesign/webman-toggle-admin-bar/blob/master/changelog.md) for details.
 
 == Upgrade Notice ==
+
+= 1.2 =
+Improving code.
+
+= 1.1 =
+Fixed PHP error in theme customizer.
 
 = 1.0 =
 This is initial plugin release.
